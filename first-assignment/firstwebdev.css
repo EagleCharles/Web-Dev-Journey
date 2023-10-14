@@ -21,7 +21,7 @@
     color: rgb(6, 6, 68);
     position: relative;
     top: 5px;
-    font-size: 50px;
+    font-size: 40px;
     background-color: rgb(238, 109, 4);
     border-radius: 10px;
 }
@@ -29,9 +29,9 @@
 .navigate-tab {
     position: absolute;
     top: 20px;
-    right: 190px;
+    right: 30px;
     padding: 5px 10px;
-    background-color: rgba(113, 122, 69, 0.836);
+    background-color: rgba(136, 145, 95, 0.836);
     border-radius: 10px;
 }
 
